@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGENT Julia Repository Workflows"
+  short_description: "AGENT models, training, inference, and data analysis"
+  default_prompt: "Use $agent-julia-workflows to inspect the code and data relevant to the current task in AGENT.jl and AGENT_analysis while preserving the released models' numerical conventions."
